@@ -1,0 +1,8 @@
+{
+    "plugins": [
+        "mathjax",
+        "anchors",
+        "japanese-support"
+    ],
+    "pluginsConfig": {}
+}

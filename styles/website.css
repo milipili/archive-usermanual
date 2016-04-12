@@ -1,0 +1,46 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300,400);
+@import url(http://fonts.googleapis.com/css?family=Nunito:300);
+@import url(http://fonts.googleapis.com/css?family=Source+Code+Pro:300);
+
+/* CSS for website */
+body {
+    font-family: 'Nunito';
+    font-weight: 300;
+    color: #333;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal {
+    color: #333;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal h1,
+h1 {
+    font-family: 'Open Sans';
+    font-weight: 400;
+    color: #000;
+    border-style: none;
+    border-bottom-style: none;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal h2,
+h2 {
+    margin-top: 2em;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal h2,
+.book .book-body .page-wrapper .page-inner section.normal h3,
+.book .book-body .page-wrapper .page-inner section.normal h4,
+.book .book-body .page-wrapper .page-inner section.normal h5,
+.book .book-body .page-wrapper .page-inner section.normal h6,
+h2, h3, h4, h5, h6 {
+    font-family: "Open Sans";
+    font-weight: 300;
+    color: #000;
+}
+
+
+pre, code,
+.book .book-body .page-wrapper .page-inner section.normal pre {
+    font-family: "Source Code Pro";
+    font-weight: 300;
+}
